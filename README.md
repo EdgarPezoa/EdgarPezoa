@@ -41,4 +41,4 @@ I'am a software engineer...
 [![][daiksen-web]][daiksenweb]
 
 [daiksenweb]: https://www.daiksen.cl/
-[daiksen-web]: https://img.shields.io/badge/daiksen.cl-bussiness-2F2F2F.svg?style=for-the-badge&logo=googlechrome&labelColor=232323&logoColor=FED6E7
+[daiksen-web]: https://img.shields.io/badge/daiksen.cl-business-2F2F2F.svg?style=for-the-badge&logo=googlechrome&labelColor=232323&logoColor=FED6E7
