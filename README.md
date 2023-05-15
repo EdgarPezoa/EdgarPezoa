@@ -1,14 +1,11 @@
-# 👋 Hi there!
+# 👋 Hi, there~
+I'am Edgar, but all my friends call me Eddy.
 
-<!-- Greet -->
+Skilled ReactJS/React Native Software Engineer with experience in designing and developing complex and scalable applications. Besides leading teams and manage
+projects.
 
-My name is Edgar, but you can call me Eddy if you want.
-
-<!-- Description -->
-
-I'am a software engineer...
-
-<!-- - 🔭 I’m currently working on ...(Personal proyects and others ) -->
+I'am a quick learner and self improve person, often i start projects to fulfill my curiosity and challenge myself to new technologies.
+My type of work prioritize standardize structure, analysis of requirements and coding best practices. Also coordinate workflow with teammates using agile methodologies
 
 <!-- Goals & Interest & Hobbyes --> <!-- - 🌱 I’m currently learning ... -->
 
